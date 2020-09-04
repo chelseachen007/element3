@@ -12,7 +12,7 @@
   - Update error status (#19194 by @lhx6538665)
 
 #### Optimization
-
+ 
 - I18n
   - Update ru-RU popconfirm translation (#19220 by @Opppex)
   - Update vi translation (#19244 by @quangln2810)
