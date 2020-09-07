@@ -113,12 +113,11 @@ ComponentNames.forEach((name) => {
       'divider',
       'progress',
       'form',
-      'form-item'
+      'form-item',
       'message',
       'pagination',
       'notification',
       'page-header',
-      'message',
       'timeline',
       'timeline-item',
       'input-number',
